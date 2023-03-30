@@ -7,3 +7,5 @@ Dados Pessoais:
  - Telefone: (14) 998862142
  - E-mail: alexandrebenevenuto2015@gmail.com
  
+ Objetivos:
+ - Estágio na área de programação
