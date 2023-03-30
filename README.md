@@ -20,3 +20,7 @@ Dados Pessoais:
 
  Esperiência Profissional:
  - Não tenho nenhuma experiência na área 
+
+ Formação:
+ - Estudando Análise e desenvolvimento de sistemas na UNIMAR (inicio 2023, fim 2025)
+
