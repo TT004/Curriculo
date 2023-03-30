@@ -9,3 +9,11 @@ Dados Pessoais:
  
  Objetivos:
  - Estágio na área de programação
+
+
+ Habilidades e Competências
+ - Bom relacionamento
+ - Proatividade
+ - Comprometimento
+ - Capacidade de inovação
+ - Flexibilidade e capacidade de se adaptar a mudanças
