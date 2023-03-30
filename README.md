@@ -17,3 +17,6 @@ Dados Pessoais:
  - Comprometimento
  - Capacidade de inovação
  - Flexibilidade e capacidade de se adaptar a mudanças
+
+ Esperiência Profissional:
+ - Não tenho nenhuma experiência na área 
