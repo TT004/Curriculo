@@ -24,3 +24,9 @@ Dados Pessoais:
  Formação:
  - Estudando Análise e desenvolvimento de sistemas na UNIMAR (inicio 2023, fim 2025)
 
+Idiomas:
+ - Inglês Básico.
+ - Espanhol Básico.
+ - Português Fluente.
+ 
+ 
